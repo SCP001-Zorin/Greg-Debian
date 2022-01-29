@@ -1,0 +1,4 @@
+shell:
+  program: /home/zorin/.local/bin/fish
+  args:
+    - --login
