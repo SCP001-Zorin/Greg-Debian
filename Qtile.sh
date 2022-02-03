@@ -15,5 +15,11 @@ sudo git clone git://github.com/qtile/qtile.git
 #Qtile location
 cd qtile
 
+#pip install qtile
+pip install .
+
+#Stable-qtile
+#pip install qtile
+
 #End
 
