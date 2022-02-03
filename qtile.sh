@@ -1,25 +1,17 @@
 #!/bin/bash
 
-#Qtile requirments 
-sudo apt install python3 python3-pip python-gobject python-dbus libpangocairo-1.0-0 alsa-utils pavucontrol pcmanfm firefox-esr suckless-tools
+sudo apt install python3 python3-distutils -y
 
-#Qtile 1. step
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+python3 get-pip.py 
+
 pip3 install xcffib
 
-#Qtile 2. Step
 pip3 install --no-cache-dir cairocffi
 
-#Clone Qtile Rep
-sudo git clone git://github.com/qtile/qtile.git
+pip3 install dbus-next
 
-#Qtile location
-cd qtile
-
-#pip install qtile
-pip install .
-
-#Stable-qtile
-#pip install qtile
+pip3 install qtile
 
 #End
-
