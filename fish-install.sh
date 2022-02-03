@@ -6,6 +6,6 @@ curl -fsSL https://download.opensuse.org/repositories/shells:fish:release:3/Debi
 
 sudo apt update
 
-sudo apt install fish
+sudo apt install fish -y
 
 #End
