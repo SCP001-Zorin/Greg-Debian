@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #rofi install
-sudo apt-get install rofi
+sudo apt-get install rofi -y
 
 #End
 
