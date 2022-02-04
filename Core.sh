@@ -51,21 +51,6 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
 sudo apt -y install ./google-chrome-stable_current_amd64.deb
 
-#Documents 
-sudo mkdir $HOME Documents
-
-#Video
-sudo mkdir $HOME Video
-
-#Music
-sudo mkdir $HOME Music
-
-#Downloads
-sudo mkdir $HOME Downloads
-
-#Wallpaper
-sudo mkdir $HOME .Wallpaper
-
 #Nerd-Font
 sh Nerd-Font.sh
 
