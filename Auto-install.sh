@@ -3,6 +3,9 @@
  #Update
  sudo apt update
  
+ #Font-manager
+ sudo apt-get install font-manager
+ 
  #feh
  sudo apt-get install feh
  
