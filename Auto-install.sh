@@ -27,4 +27,19 @@
  #neofetch 
  sudo apt-get install neofetch
  
+ #alacritty configuration
+ cp -r alacritty/ ~/.config
+
+ #neofetch configuration
+ cp -r neofetch/ ~/.config  
+ 
+ #qtile Configurations
+ cp -r qtile/ ~/.config
+
+ #Rofi
+ cp -r rofi ~/.donfig
+ 
+ #Wallpaper
+ sudo mkdir $HOME .Wallpaper
+ 
  #End
