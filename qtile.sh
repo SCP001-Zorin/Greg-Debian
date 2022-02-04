@@ -16,6 +16,6 @@ cd qtile
 
 pip3 install .
 
-sudo cp qtile.desktop /usr/share/xsessions
-
+#qtile Xsession
+sh cp.sh
 #End
