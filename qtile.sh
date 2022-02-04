@@ -6,15 +6,15 @@ sudo apt -y install python3-pip
 
 sudo apt -y install python-gobject python-dbus libpangocairo-1.0-0
 
-pip install xcffib
+sudo pip install xcffib
 
-pip install --no-cache-dir cairocffi
+sudo pip install --no-cache-dir cairocffi
 
 git clone git://github.com/qtile/qtile.git
 
 cd qtile
 
-pip3 install .
+sudo pip3 install .
 
 sudo cp qtile.desktop /usr/share/xsessions
 
