@@ -13,6 +13,6 @@
  cp -r rofi ~/.config
  
  #Feh wallpaper
- cp -r .Wallpaper ~./.Wallpaper
+ cp -r .Wallpaper ~/.Wallpaper
  
  
