@@ -15,4 +15,7 @@
  #Feh wallpaper
  cp -r .Wallpaper ~/.Wallpaper
  
+ #Qtile XSession
+ sudo cp qtile.desktop /usr/share/xsessions
+ 
  
