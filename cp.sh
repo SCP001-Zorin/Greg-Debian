@@ -16,6 +16,8 @@
  cp -r .Wallpaper ~/.Wallpaper
  
  #Qtile XSession
- sudo cp qtile.desktop /usr/share/xsessions
+ sudo cp -r qtile.desktop /usr/share/xsessions
+ 
+ #End
  
  
