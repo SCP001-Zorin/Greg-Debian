@@ -2,9 +2,9 @@
 
 sudo apt -y install python3 python3-distutils
 
-sudo apt -y install python3-pip -y
+sudo apt -y install python3-pip
 
-sudo apt -y python3 python3-pip python-gobject python-dbus libpangocairo-1.0-0
+sudo apt -y install python-gobject python-dbus libpangocairo-1.0-0
 
 pip install xcffib
 
