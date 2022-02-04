@@ -10,4 +10,4 @@ cbatticon -u 5 &
 volumeicon &
 
 # Feh
-feh --bg-scale /home/zorin/.Wallpapers/Arch-Linux-Wallpaper-4K.png
+feh --bg-scale ~/.Wallpapers/Deb-Linux-Wallpaper-4K.png
