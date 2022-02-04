@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt -y install python3 python3-distutils -y 
+sudo apt -y install python3 python3-distutils
 
 sudo apt -y install python3-pip -y
 
