@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#qtile Xsession
+sh cp.sh
+
 sudo apt -y install python3 python3-distutils
 
 sudo apt -y install python3-pip
@@ -16,6 +19,4 @@ cd qtile
 
 pip3 install .
 
-#qtile Xsession
-sh cp.sh
 #End
