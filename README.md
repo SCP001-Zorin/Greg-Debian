@@ -17,4 +17,4 @@ git clone https://github.com/SCP001-Zorin/Greg-Debian.git
 cd Greg-Debian
 
 # 6.step
-sh .Auto-install.sh
+sh Auto-install.sh
