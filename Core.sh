@@ -66,6 +66,9 @@ sudo mkdir $HOME Downloads
 #Wallpaper
 sudo mkdir $HOME .Wallpaper
 
+#Nerd-Font
+sh Nerd-Font.sh
+
 #Qtile
 sh qtile.sh
 
