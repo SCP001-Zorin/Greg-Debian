@@ -1,6 +1,7 @@
 # Greg-Debian
 Debian GNU/Linux Qtile configuration and automatic installation
 
+# whatsapp +507 61717081 :reddtroll: 
 # 1.Step
 install iso (Check release page)
 
