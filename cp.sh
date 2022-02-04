@@ -10,4 +10,9 @@
  cp -r qtile/ ~/.config
 
  #Rofi
- cp -r rofi ~/.donfig
+ cp -r rofi ~/.config
+ 
+ #Feh wallpaper
+ cp -r .Wallpaper ~./.Wallpaper
+ 
+ 
