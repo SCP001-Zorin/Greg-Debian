@@ -6,6 +6,9 @@
  #feh
  sudo apt-get install feh
  
+ #qtile
+ sh qtile.sh
+ 
  #install snapd
  sh snap-install.sh
  
