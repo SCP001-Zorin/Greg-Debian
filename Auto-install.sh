@@ -6,6 +6,9 @@
  #Font-manager
  sudo apt-get install font-manager
  
+ #network manager
+  sudo apt-get install network-manager
+ 
  #feh
  sudo apt-get install feh
  
