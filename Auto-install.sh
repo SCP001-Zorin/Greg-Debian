@@ -1,4 +1,10 @@
  #! /bin/sh.
+  
+ #Update
+ sudo apt update
+ 
+ #feh
+ sudo apt-get install feh
  
  #install snapd
  sh snap-install.sh
