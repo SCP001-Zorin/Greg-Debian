@@ -10,4 +10,4 @@ cbatticon -u 5 &
 volumeicon &
 
 # Feh
-feh --bg-scale ~/.Wallpapers/Deb-Linux-Wallpaper-4K.png
+feh --bg-scale ~/.Wallpaper/Deb-Linux-Wallpaper-4K.png
