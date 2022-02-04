@@ -2,16 +2,14 @@
 
 sudo apt install python3 python3-distutils -y
 
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+sudo apt install python3-pip -y
 
-python3 get-pip.py 
+pip install xcffib
 
-pip3 install xcffib
+pip install --no-cache-dir cairocffi
 
-pip3 install --no-cache-dir cairocffi
+pip install dbus-next
 
-pip3 install dbus-next
-
-pip3 install qtile
+sudo pip install qtile 
 
 #End
