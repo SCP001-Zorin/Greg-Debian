@@ -13,7 +13,8 @@ sudo apt-get install git
 # 4.Step
 git clone https://github.com/SCP001-Zorin/Greg-Debian.git
 
-# 5.Spet
+# 5.Step
 cd Greg-Debian
 
-
+# 6.step
+sh .Auto-install.sh
