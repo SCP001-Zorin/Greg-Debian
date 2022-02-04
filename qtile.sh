@@ -10,6 +10,8 @@ pip install --no-cache-dir cairocffi
 
 pip install dbus-next
 
-sudo pip install qtile 
+sudo pip install qtile
+
+sudo cp qtile.desktop /usr/share/xsessions
 
 #End
