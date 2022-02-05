@@ -1,16 +1,16 @@
 #! /bin/sh.
 
  #alacritty configuration
- cp -r alacritty/ ~/.config
+ sudo cp -r alacritty/ ~/.config
 
  #neofetch configuration
- cp -r neofetch/ ~/.config  
+ sudo cp -r neofetch/ ~/.config  
  
  #qtile Configurations
- cp -r qtile/ ~/.config
+ sudo cp -r qtile/ ~/.config
 
  #Rofi
- cp -r rofi ~/.config
+ sudo cp -r rofi ~/.config
  
  #Ranger
  git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
