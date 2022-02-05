@@ -6,7 +6,7 @@ sudo apt-get -y Update
 #Xorg X11
 sudo apt-get -y install xorg
 
-sudo apt-get -y install xserver-xorg
+#sudo apt-get -y install xserver-xorg
 
 #Ranger
 sudo apt-get -y install ranger
