@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#qtile Xsession
-sh cp.sh
-
 #vim
 sudo apt-get install vim 
 
