@@ -4,19 +4,19 @@
 sudo mkdir ~/.local/bin
 export PATH=$PATH:$HOME/.local/bin
 
-sudo apt install xorg
+sudo apt-get install xorg
 
 #Xorg-server
-sudo apt install xserver-xorg
+sudo apt-get install xserver-xorg
 
 #Xinit
-sudo apt install  xinit
+sudo apt-get install  xinit
 
 #start Xserver
 startx
 
 # install snapd
-#sudo apt install snapd
+#sudo apt-get install snapd
 
 #install snap-core
 #sudo snap install core
