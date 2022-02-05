@@ -16,11 +16,6 @@
  #Rofi
  sudo cp -r rofi ~/.config
  
- #Ranger
- sudo git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
- 
- echo "default_linemode devicons" >> $HOME/.config/ranger/rc.conf
- 
  #Feh wallpaper
  cp -r .Wallpaper ~/.Wallpaper
  
