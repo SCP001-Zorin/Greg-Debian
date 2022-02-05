@@ -3,6 +3,7 @@
 sudo mkdir -p ~/.local/share/fonts/Nerd-Fonts
 
 sudo cp Nerd-Font.ttf ~/.local/share/fonts/Nerd-Fonts
+sudo cp Nerd-Font.ttf ~/.local/share/fonts
 
 #Fonts-Alternative
 
