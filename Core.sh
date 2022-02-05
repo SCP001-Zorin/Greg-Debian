@@ -4,9 +4,9 @@
 sudo apt-get Update 
 
 #Xorg X11
-sudo apt-get install xorg
+sudo apt install xorg
 
-#sudo apt-get -y install xserver-xorg
+sudo apt install xserver-xorg-video-nvidia xserver-xorg-core xinit
 
 #Ranger
 sudo apt-get install ranger
