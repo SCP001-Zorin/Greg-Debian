@@ -3,7 +3,7 @@ Debian GNU/Linux Qtile configuration and automatic installation
 Check my All in one Arch [ISO](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 ## Step 1.
-Install Debian-Minimal ISO (Uploading later)
+Install Debian-Minimal [ISO](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Step 2
 Install git from apt repository
