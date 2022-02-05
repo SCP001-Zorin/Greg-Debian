@@ -33,10 +33,5 @@ cd qtile
 
 pip3 install .
 
-export PATH=$PATH:$HOME/bin
-
-pip install qtile
-
-cp -r ~/.local/bin/qtile /usr/local/bin
 
 #End
