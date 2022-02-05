@@ -16,12 +16,12 @@ sudo apt install  xinit
 startx
 
 # install snapd
-sudo apt install snapd
+#sudo apt install snapd
 
 #install snap-core
-sudo snap install core
+#sudo snap install core
 
 #alacritty from snap-store
-sudo snap install alacritty --classic
+#sudo snap install alacritty --classic
 
 #End
