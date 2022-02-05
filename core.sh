@@ -43,20 +43,6 @@ sudo apt-get install picom
 #neofetch
 sudo apt-get install neofetch
 
-# install snapd
-#sudo apt install snapd
-
-#install snap-core
-#sudo snap install core
-
-#alacritty from snap-store
-#sudo snap install alacritty --classic
-
-#Google-Chrome
-#wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-
-#sudo apt -y install ./google-chrome-stable_current_amd64.deb
-
 #Nerd-Font
 sh Nerd-Font.sh
 
