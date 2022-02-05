@@ -2,6 +2,8 @@
 
 #mkdir
 sudo mkdir ~/.local/bin
+export PATH=$PATH:$HOME/bin
+export PATH=$PATH:HOME.local/bin
 
 #Update-System
 sudo apt-get Update 
