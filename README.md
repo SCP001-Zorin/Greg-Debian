@@ -25,7 +25,7 @@ cd Greg-Debian
 
 ## Step 4
 
-Insyall in **order** the followings Bash Files
+Execute(sh) in **order** the followings Bash Files
 
 ### 1. Xorg and Xorh Server
 
