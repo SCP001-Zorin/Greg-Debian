@@ -1,5 +1,6 @@
 # Greg-Debian
 Debian GNU/Linux Qtile configuration and automatic installation
+Check my All in one Arch iso (Coming Soon)
 
 ## Step 1.
 Install Debian-Minimal ISO [Realese page](https://github.com/SCP001-Zorin/Greg-Debian/releases/tag/Qtile).
