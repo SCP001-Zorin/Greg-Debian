@@ -15,6 +15,10 @@ sudo apt-get install  xinit
 #start Xserver
 startx
 
+#Core System
+
+sh core.sh
+
 # install snapd
 #sudo apt-get install snapd
 
