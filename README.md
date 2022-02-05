@@ -22,8 +22,31 @@ cd Greg-Debian
 
 ```
 
-# Step 4
+## Step 4
 
 Insyall in **order** the followings Bash Files
+
+### 1. Xorg and Xorh Server
+
 ```
 sh xorg.sh
+```
+
+### 2. IWM Dependancies
+
+```
+sh wm.sh
+```
+
+### 3. qtile Window Manager
+
+```
+sh qtile.sh
+```
+
+### 4. Install Core
+```
+sh core.sh
+```
+
+#### 4. reboot machine
