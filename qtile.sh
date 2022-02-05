@@ -4,24 +4,27 @@
 sh cp.sh
 
 #vim
-sudo apt install vim 
+sudo apt-get install vim 
 
 #python3
-sudo apt install python3
+sudo apt-get install python3
 
 #python pip
-sudo apt install python3-pip
+sudo apt-get install python3-pip
 
 #python
-sudo apt install python3-dbus
+sudo apt-get install python3-dbus
 
 #python
-sudo apt install libpangocairo-1.0-0 
+sudo apt-get install libpangocairo-1.0-0 
 
 #python
-sudo apt python3-v-sim
+sudo apt-get install python3-v-sim
 
 #python
-sudo apt suckless-tools
+sudo apt-get  install suckless-tools
+
+#python
+sudo apt-get  istall python3-psutil
 
 #End
