@@ -7,7 +7,7 @@ sudo apt-get Update
 sudo apt install xorg
 
 #Xorg-server
-xserver-xorg
+sudo apt install xserver-xorg
 
 #Xinit
 sudo apt install  xinit
@@ -45,13 +45,13 @@ sudo apt-get install picom
 sudo apt-get install neofetch
 
 # install snapd
-sudo apt install snapd
+#sudo apt install snapd
 
 #install snap-core
-sudo snap install core
+#sudo snap install core
 
 #alacritty from snap-store
-sudo snap install alacritty --classic
+#sudo snap install alacritty --classic
 
 #Google-Chrome
 #wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
