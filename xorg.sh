@@ -15,4 +15,13 @@ sudo apt install  xinit
 #start Xserver
 startx
 
+# install snapd
+sudo apt install snapd
+
+#install snap-core
+sudo snap install core
+
+#alacritty from snap-store
+sudo snap install alacritty --classic
+
 #End
