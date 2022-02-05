@@ -1,5 +1,8 @@
 #! /bin/sh.
 
+#mkdir
+sudo mkdir ~/.local/bin
+
 #Update-System
 sudo apt-get Update 
 
