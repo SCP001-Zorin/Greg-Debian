@@ -3,13 +3,13 @@
 #qtile Xsession
 sh cp.sh
 
-sudo apt-get -y suckless-tools
+sudo apt-get  suckless-tools
 
-sudo apt -y install python3 python3-distutils
+sudo apt-get  install python3 python3-distutils
 
-sudo apt -y install python3-pip
+sudo apt  install python3-pip
 
-sudo apt -y install python-gobject python-dbus libpangocairo-1.0-0
+sudo apt  install python-gobject python-dbus libpangocairo-1.0-0
 
 pip3 install xcffib
 
