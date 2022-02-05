@@ -13,7 +13,7 @@ sudo apt install python3-pip
 sudo apt install vim python3-dbus-dev
 
 #python
-libpangocairo-1.0-0 
+sudo apt install libpangocairo-1.0-0 
 
 #python
 sudo apt python3-v-sim 
