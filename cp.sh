@@ -30,8 +30,6 @@
  echo "default_linemode devicons" >> $HOME/.config/ranger/rc.conf
  
  #Feh wallpaper
- 
- sudo mkdir .Wallpaper $HOME
  cp -r .Wallpaper ~/.Wallpaper
  
  #End
