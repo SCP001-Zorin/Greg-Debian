@@ -1,7 +1,7 @@
 #Python
 
-#qtile pip
-export PATH=$PATH:$HOME/bin
+#add PATH to system
+export PATH=$PATH:$HOME/.local/bin
 
 pip3 install xcffib
 
