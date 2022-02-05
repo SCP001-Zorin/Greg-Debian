@@ -1,7 +1,7 @@
 #! /bin/sh.
 
  #Ranger
- sudo cp-r ranger ~/.config
+ #sudo cp-r ranger ~/.config
  
  #alacritty configuration
  sudo cp -r alacritty ~/.config
