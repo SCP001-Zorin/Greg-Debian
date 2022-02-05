@@ -14,3 +14,5 @@ sudo apt install  xinit
 
 #start Xserver
 startx
+
+#End
