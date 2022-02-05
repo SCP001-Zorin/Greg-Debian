@@ -3,15 +3,6 @@
 #Update-System
 sudo apt-get Update 
 
-#Xorg X11
-sudo apt install xorg
-
-#Xorg-server
-sudo apt install xserver-xorg
-
-#Xinit
-sudo apt install  xinit
-
 #Ranger
 sudo apt-get install ranger
 
