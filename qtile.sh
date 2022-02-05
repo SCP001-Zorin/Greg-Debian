@@ -3,6 +3,9 @@
 #qtile Xsession
 sh cp.sh
 
+#vim
+sudo apt install vim 
+
 #python3
 sudo apt install python3
 
@@ -10,7 +13,7 @@ sudo apt install python3
 sudo apt install python3-pip
 
 #python
-sudo apt install vim python3-dbus
+sudo apt install python3-dbus
 
 #python
 sudo apt install libpangocairo-1.0-0 
