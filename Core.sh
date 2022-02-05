@@ -1,47 +1,47 @@
 #! /bin/sh.
 
 #Update-System
-sudo apt-get -y Update 
+sudo apt-get Update 
 
 #Xorg X11
-sudo apt-get -y install xorg
+sudo apt-get install xorg
 
 #sudo apt-get -y install xserver-xorg
 
 #Ranger
-sudo apt-get -y install ranger
+sudo apt-get install ranger
 
 #font-manager
-sudo apt-get -y install font-manager 
+sudo apt-get  install font-manager 
 
 #network-manager using nmcli
-sudo apt-get -y install network-manager 
+sudo apt-get  install network-manager 
 
 #cbatticon
-sudo apt-get -y install cbatticon
+sudo apt-get  install cbatticon
 
 #volumeicon
-sudo apt-get -y install volumeicon-alsa
+sudo apt-get  install volumeicon-alsa
 
 #feh for wallpaper
-sudo apt-get -y install feh
+sudo apt-get  install feh
 sudo mkdir $HOME .Wallpaper
 
 #lightdm && gtk && settings
-sudo apt-get -y install lightdm 
+sudo apt-get  install lightdm 
 sudo systemctl enable lightdm.service
 
 #rofi install
-sudo apt-get -y install rofi
+sudo apt-get install rofi
 
 #picom Compositonr
-sudo apt-get -y install picom
+sudo apt-get install picom
 
 #neofetch
-sudo apt-get -y install neofetch
+sudo apt-get install neofetch
 
 # install snapd
-sudo apt -y  install snapd
+sudo apt install snapd
 
 #install snap-core
 sudo snap install core
