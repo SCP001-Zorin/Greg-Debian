@@ -56,13 +56,13 @@ keys = [Key(key[0], key[1], *key[2:]) for key in [
     ([mod, "shift"], "m", lazy.spawn("rofi -show")),
 
     # Browser
-    ([mod], "b", lazy.spawn("firefox")),
+    ([mod], "b", lazy.spawn("google-chrome")),
 
     # File Explorer
     ([mod], "e", lazy.spawn("pcmanfm")),
 
     # Terminal
-    ([mod], "Return", lazy.spawn("alacritty")),
+    ([mod], "Return", lazy.spawn("snap run alacritty")),
 
     # Redshift
     ([mod], "r", lazy.spawn("redshift -O 2400")),
