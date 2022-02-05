@@ -8,6 +8,9 @@ sudo apt-get -y install xorg
 
 sudo apt-get -y install xserver-xorg
 
+#Ranger
+sudo apt-get -y install ranger
+
 #font-manager
 sudo apt-get -y install font-manager 
 
