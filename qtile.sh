@@ -3,14 +3,34 @@
 #qtile Xsession
 sh cp.sh
 
-sudo apt-get  suckless-tools
+#python3
+sudo apt install python3
 
-sudo apt-get  install python3 python3-distutils
+#python pip
+sudo apt install python3-pip
 
-sudo apt  install python3-pip
+#python
+sudo apt install vim python3-dbus-dev
 
-sudo apt  install python-gobject python-dbus libpangocairo-1.0-0
+#python
+libpangocairo-1.0-0 
 
+#python
+sudo apt ython3-v-sim 
+
+#python
+sudo apt lsa-utils 
+
+#python
+sudo apt ulsemixer 
+
+#python
+sudo apt cmanfm 
+
+#python
+sudo apt uckless-tools
+
+#Python
 pip3 install xcffib
 
 pip3 install --no-cache-dir cairocffi
