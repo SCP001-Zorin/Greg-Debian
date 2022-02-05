@@ -1,6 +1,5 @@
 #! /bin/sh.
 
-
  #Ranger
  sudo cp-r ranger ~/.config
  
@@ -15,6 +14,7 @@
 
  #Rofi
  sudo cp -r rofi ~/.config
+ sudo cp -r onedark.rasi /usr/share/rofi/themes
  
  #Feh wallpaper
  cp -r .Wallpaper ~/.Wallpaper
