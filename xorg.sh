@@ -2,6 +2,7 @@
 
 #mkdir
 sudo mkdir ~/.local/bin
+export PATH=$PATH:$HOME/.local/bin
 
 sudo apt install xorg
 
