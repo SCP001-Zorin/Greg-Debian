@@ -1,4 +1,8 @@
 #Xorg X11
+
+#mkdir
+sudo mkdir ~/.local/bin
+
 sudo apt install xorg
 
 #Xorg-server
