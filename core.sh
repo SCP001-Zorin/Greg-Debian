@@ -11,7 +11,7 @@ sudo apt-get Update
 
 #Ranger
 sudo apt-get install ranger
-sudo git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons 
+sudo git clone https://github.com/alexanderjeurissen/ranger_devicons $HOME/.config/ranger/plugins/ranger_devicons 
 echo "default_linemode devicons" >> $HOME/.config/ranger/rc.conf
 
 #font-manager
