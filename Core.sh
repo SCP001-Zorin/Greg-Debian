@@ -57,4 +57,7 @@ sudo apt-get install neofetch
 #Nerd-Font
 sh Nerd-Font.sh
 
+#CP
+sh cp.sh
+
 #End
