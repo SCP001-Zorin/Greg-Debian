@@ -25,6 +25,13 @@
  #Qtile XSession
  sudo cp -r qtile.desktop /usr/share/xsessions
  
+ #qtile pip
+ export PATH=$PATH:$HOME/bin
+
+ pip install qtile
+
+ cp -r ~/.local/bin/qtile /usr/local/bin
+ 
  #End
  
  
