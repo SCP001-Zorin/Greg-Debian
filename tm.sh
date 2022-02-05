@@ -17,3 +17,9 @@ export PATH=$PATH:$HOME/.local/bin
 pip3 install qtile 
 
 sudo cp -r ~/.local/bin/qtile /usr/local/bin
+
+ sudo git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
+ 
+ echo "default_linemode devicons" >> $HOME/.config/ranger/rc.conf
+
+#End
