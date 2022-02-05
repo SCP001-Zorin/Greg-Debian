@@ -28,7 +28,7 @@ sudo apt ulsemixer
 sudo apt cmanfm 
 
 #python
-sudo apt uckless-tools
+sudo apt suckless-tools -yy
 
 #Python
 pip3 install xcffib
