@@ -13,6 +13,7 @@ pip3 install --no-cache-dir cairocffi
 
 #pip3 install .
 
+export PATH=$PATH:$HOME/.local/bin
 pip3 install qtile 
 
 sudo cp -r ~/.local/bin/qtile /usr/local/bin
