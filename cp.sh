@@ -1,21 +1,5 @@
 #! /bin/sh.
 
-
- #Qtile XSession
- sudo cp -r qtile.desktop /usr/share/xsessions
- 
- #mkdir
- 
- sudo mkdir ~/.local/bin 
- 
- #qtile pip
- export PATH=$PATH:$HOME/bin
-
- pip install qtile
-
- cp -r ~/.local/bin/qtile /usr/local/bin
- 
- 
  #alacritty configuration
  sudo cp -r alacritty/ ~/.config
 
@@ -35,6 +19,9 @@
  
  #Feh wallpaper
  cp -r .Wallpaper ~/.Wallpaper
+ 
+ #Qtile XSession
+ sudo cp -r qtile.desktop /usr/share/xsessions
  
  #End
  
