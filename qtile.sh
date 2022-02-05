@@ -24,4 +24,7 @@ sudo apt-get  install suckless-tools
 #python
 sudo apt-get  istall python3-psutil
 
+Qtile WM system
+sh th.sh
+
 #End
