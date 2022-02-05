@@ -20,12 +20,12 @@ startx
 #sh core.sh
 
 # install snapd
-#sudo apt-get install snapd
+sudo apt-get install snapd
 
 #install snap-core
-#sudo snap install core
+sudo snap install core
 
 #alacritty from snap-store
-#sudo snap install alacritty --classic
+sudo snap install alacritty --classic
 
 #End
