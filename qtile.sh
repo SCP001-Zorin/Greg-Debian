@@ -18,7 +18,6 @@ libpangocairo-1.0-0
 #python
 sudo apt python3-v-sim 
 
-
 #python
 sudo apt suckless-tools -yy
 
