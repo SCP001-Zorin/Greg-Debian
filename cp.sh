@@ -4,6 +4,10 @@
  #Qtile XSession
  sudo cp -r qtile.desktop /usr/share/xsessions
  
+ #mkdir
+ 
+ sudo mkdir ~/.local/bin 
+ 
  #qtile pip
  export PATH=$PATH:$HOME/bin
 
@@ -25,9 +29,9 @@
  sudo cp -r rofi ~/.config
  
  #Ranger
- git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
+ sudo git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
  
- echo "default_linemode devicons" >> $HOME/.config/ranger/rc.conf
+ sudo echo "default_linemode devicons" >> $HOME/.config/ranger/rc.conf
  
  #Feh wallpaper
  cp -r .Wallpaper ~/.Wallpaper
