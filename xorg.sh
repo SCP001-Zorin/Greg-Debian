@@ -17,7 +17,7 @@ startx
 
 #Core System
 
-sh core.sh
+#sh core.sh
 
 # install snapd
 #sudo apt-get install snapd
