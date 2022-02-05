@@ -52,10 +52,4 @@ sudo apt-get install neofetch
 #Nerd-Font
 sh Nerd-Font.sh
 
-#Qtile
-sh qtile.sh
-
-#copy configurations
-sh cp.sh
-
 #End
