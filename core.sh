@@ -5,11 +5,14 @@ sudo mkdir ~/.local/bin
 export PATH=$PATH:$HOME/bin
 export PATH=$PATH:HOME/.local/bin
 
+
 #Update-System
 sudo apt-get Update 
 
 #Ranger
 sudo apt-get install ranger
+sudo git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons 
+echo "default_linemode devicons" >> $HOME/.config/ranger/rc.conf
 
 #font-manager
 sudo apt-get  install font-manager 
