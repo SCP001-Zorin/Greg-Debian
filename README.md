@@ -49,4 +49,6 @@ sh qtile.sh
 sh core.sh
 ```
 
-#### 4. reboot machine
+#### 5. reboot machine
+
+Just smack your computer until the junk dies and reboots
