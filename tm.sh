@@ -9,7 +9,7 @@ pip3 install --no-cache-dir cairocffi
 
 git clone git://github.com/qtile/qtile.git
 
-cd qtile
+cd $HOME/qtile
 
 pip3 install .
 
