@@ -16,16 +16,8 @@ sudo apt install vim python3-dbus-dev
 libpangocairo-1.0-0 
 
 #python
-sudo apt ython3-v-sim 
+sudo apt python3-v-sim 
 
-#python
-sudo apt lsa-utils 
-
-#python
-sudo apt ulsemixer 
-
-#python
-sudo apt cmanfm 
 
 #python
 sudo apt suckless-tools -yy
