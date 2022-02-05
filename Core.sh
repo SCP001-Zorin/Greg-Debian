@@ -6,7 +6,11 @@ sudo apt-get Update
 #Xorg X11
 sudo apt install xorg
 
-sudo apt install xserver-xorg-video-nvidia xserver-xorg-core xinit
+#Xorg-server
+xserver-xorg
+
+#Xinit
+sudo apt install  xinit
 
 #Ranger
 sudo apt-get install ranger
@@ -50,9 +54,9 @@ sudo snap install core
 sudo snap install alacritty --classic
 
 #Google-Chrome
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+#wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
-sudo apt -y install ./google-chrome-stable_current_amd64.deb
+#sudo apt -y install ./google-chrome-stable_current_amd64.deb
 
 #Nerd-Font
 sh Nerd-Font.sh
