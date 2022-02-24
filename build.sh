@@ -12,4 +12,4 @@ sh qtile.sh
 sh core.sh
 
 #Qtile
-sudo pip3 install qtile
+
