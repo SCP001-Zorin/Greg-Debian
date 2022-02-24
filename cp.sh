@@ -17,7 +17,7 @@
  sudo cp -r onedark.rasi /usr/share/rofi/themes
  
  #Feh wallpaper
- #cp -r .Wallpaper ~/.Wallpaper
+ cp -r .Wallpaper ~/.Wallpaper
  
  #Qtile XSession
  sudo cp -r qtile.desktop /usr/share/xsessions
