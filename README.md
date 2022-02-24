@@ -20,36 +20,4 @@ Git clone Repository for automatic installation
 git clone https://github.com/SCP001-Zorin/Greg-Debian.git
 
 cd Greg-Debian
-
 ```
-
-## Step 4
-
-Execute(sh) in **order** the followings Bash Files
-
-### 1. Xorg and Xorh Server
-
-```
-sh xorg.sh
-```
-
-### 2. IWM Dependancies
-
-```
-sh wm.sh
-```
-
-### 3. qtile Window Manager
-
-```
-sh qtile.sh
-```
-
-### 4. Install Core
-```
-sh core.sh
-```
-
-#### 5. reboot machine
-
-Just smack your computer until the junk dies and reboots
