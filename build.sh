@@ -1,12 +1,12 @@
 # /bin/sh.
 #Xorg 
-sh core/xorg.sh
+sh Core/xorg.sh
 
 #WM tools
-sh core/wm.sh
+sh Core/wm.sh
 
 #Qtile 
-sh coreqtile.sh
+sh Coreqtile.sh
 
 #Core
-sh core/core.sh
+sh Core/core.sh
