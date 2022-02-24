@@ -22,6 +22,6 @@ sudo snap install core
 sudo snap install alacritty --classic
 
 #start Xserver
-startx
+#startx
 
 #End
