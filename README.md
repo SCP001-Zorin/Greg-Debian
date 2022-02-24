@@ -21,3 +21,13 @@ git clone https://github.com/SCP001-Zorin/Greg-Debian.git
 
 cd Greg-Debian
 ```
+
+## Step 4 
+```
+sh build.sh
+```
+
+## Final step
+```
+smack the freak out of your computer untill the junk dies
+```
