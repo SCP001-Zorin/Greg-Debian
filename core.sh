@@ -9,11 +9,8 @@ export PATH=$PATH:HOME/.local/bin
 #Update-System
 sudo apt-get Update 
 
-#Ranger
-sudo apt-get install ranger
-sudo git clone https://github.com/alexanderjeurissen/ranger_devicons $HOME/.config/ranger/plugins/ranger_devicons 
-echo "default_linemode devicons" >> $HOME/.config/ranger/rc.conf
-
+#Thunar
+sudo apt-get install thunar
 #font-manager
 sudo apt-get  install font-manager 
 
