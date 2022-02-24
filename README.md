@@ -9,7 +9,7 @@ Install Debian-Minimal [ISO](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 Install git from apt repository
   
 ```
-sudo apt-get update && apt-get -y install git
+sudo apt-get update && sudo apt-get -y install git
 ```
 	
 ## Step 3
