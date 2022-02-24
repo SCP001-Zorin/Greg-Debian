@@ -29,5 +29,5 @@ sh build.sh
 
 ## Final step
 ```
-smack the freak out of your computer untill the junk dies
+smack the freak out of your computer until the junk dies
 ```
