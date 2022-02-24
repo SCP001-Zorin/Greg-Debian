@@ -22,6 +22,6 @@ sudo apt-get install python3-v-sim
 sudo apt-get  install suckless-tools
 
 #python
-sudo apt-get  istall python3-psutil
+sudo apt-get  install python3-psutil
 
 #End
