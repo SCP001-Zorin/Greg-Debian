@@ -2,6 +2,7 @@
 Debian GNU/Linux Qtile configuration and automatic installation
 Check my All in one Arch [ISO](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
+
 ## Step 1.
 Install Debian-Minimal [ISO](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
@@ -9,7 +10,7 @@ Install Debian-Minimal [ISO](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 Install git from apt repository
   
 ```
-sudo apt-get update && sudo apt-get -y install git
+sudo apt-get update && apt-get -y install git
 ```
 	
 ## Step 3
@@ -20,14 +21,37 @@ Git clone Repository for automatic installation
 git clone https://github.com/SCP001-Zorin/Greg-Debian.git
 
 cd Greg-Debian
+
 ```
 
-## Step 4 
+## Step 4
+
+Execute(sh) in **order** the followings Bash Files
+
+### 1. Xorg and Xorh Server
+
 ```
-sh build.sh
+sh xorg.sh
 ```
 
-## Final step
+### 2. IWM Dependancies
+
 ```
-smack the freak out of your computer until the junk dies
+sh wm.sh
 ```
+
+### 3. qtile Window Manager
+
+```
+sh qtile.sh
+```
+
+### 4. Install Core
+```
+sh core.sh
+```
+
+#### 5. reboot machine
+
+Just smack your computer until the junk dies and reboots
+
