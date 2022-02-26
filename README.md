@@ -40,7 +40,7 @@ sh xorg.sh
 sh wm.sh
 ```
 
-### 3. qtile Window Manager
+### 3. Window Manager
 
 ```
 sh qtile.sh
@@ -51,7 +51,14 @@ sh qtile.sh
 sh core.sh
 ```
 
-#### 5. reboot machine
+##5. Install Qtile
+
+```
+sudo pip install qtile
+```
+
+
+#### 6. reboot machine
 
 Just smack your computer until the junk dies and reboots
 
