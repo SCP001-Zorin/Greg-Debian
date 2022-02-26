@@ -51,7 +51,7 @@ sh qtile.sh
 sh core.sh
 ```
 
-##5. Install Qtile
+### 5. Install Qtile
 
 ```
 sudo pip install qtile
